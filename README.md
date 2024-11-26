@@ -30,3 +30,17 @@ This project demonstrates a novel approach to enhancing home security using deep
 1. Install Python (3.6 or later) and the following libraries:
    ```bash
    pip install tensorflow keras opencv-python matplotlib numpy
+Model Accuracy
+Model	      Accuracy (Train)	Accuracy (Validation)
+CNN	        99%          97%
+VGG16	      95%	         93%
+ResNet50	  80%	         70%
+Sample Output
+Case 1: Family Member Detected
+Output: Access Granted! Welcome Home, [Name]!
+Case 2: Stranger Detected
+Output: Access Denied. Sorry, you are not recognized as a family member.
+Project Paper
+Find the detailed project paper here.
+[SMART VIDEO DETECTION DEEP LEARNING FOR ENHANCED HOME SECURITY.pdf](https://github.com/user-attachments/files/17915262/SMART.VIDEO.DETECTION.DEEP.LEARNING.FOR.ENHANCED.HOME.SECURITY.pdf)
+
