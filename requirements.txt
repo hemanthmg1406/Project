@@ -1,0 +1,19 @@
+# Machine Learning Libraries
+tensorflow==2.8
+keras==2.8
+
+# Computer Vision and Image Processing Libraries
+opencv-python==4.5.5.64
+Pillow==8.3.1
+
+# Data Processing Libraries
+numpy==1.21.4
+matplotlib==3.4.3
+
+# File Downloading from Google Drive (gdown)
+gdown==4.4.0
+
+# Other Libraries for Colab or Web-based Projects
+scipy==1.7.3
+pandas==1.3.3
+tqdm==4.62.3
